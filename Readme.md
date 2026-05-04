@@ -3,14 +3,17 @@
 
 This project showcases an interactive Hospital Details Dashboard built using Power BI to analyze hospital operations, including doctors, staff, patients, and income trends. It provides meaningful insights to support hospital management and decision-making.
 
-## Page 1
+## Page 1 - Overview
 
-![Dashboard image 1](/image/Dashboard%20image%201.png)
+![Dashboard image 1](/image/Page%201.png)
 
-## Page 2
+## Page 2 - KPI Analysis
 
-![Dashboard image 2](/image/Dashboard%20image%202.png)
+![Dashboard image 2](/image/Page%202.png)
 
+## Page 3 - Drill Through
+
+![Dashboard image 3](/image/Page%203.png)
 # 🎯 Objectives
     Monitor doctor and staff distribution
     Analyze patient count and admissions
